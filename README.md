@@ -1,4 +1,4 @@
-# ME5413
+# Autonomous Mobile Robotics
 # ME5413_Final_Project
 
 NUS ME5413 Autonomous Mobile Robotics Final Project
