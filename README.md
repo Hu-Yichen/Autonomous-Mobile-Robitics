@@ -70,10 +70,9 @@ This repo is a ros workspace, containing three rospkgs:
 * `me5413_world` the main pkg containing the gazebo world, and the launch files
 
 ```bash
-# Clone your own fork of this repo (assuming home here `~/`)
-cd
-git clone https://github.com/<YOUR_GITHUB_USERNAME>/ME5413_Final_Project.git
-cd ME5413_Final_Project
+mkdir catkin_ws
+cd catkin_ws
+git clone https://github.com/Hu-Yichen/Autonomous-Mobile-Robitics.git
 
 # Install all dependencies
 rosdep install --from-paths src --ignore-src -r -y
