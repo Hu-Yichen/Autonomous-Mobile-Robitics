@@ -12,7 +12,7 @@ The project involves mapping and navigation tasks performed in a micro-factory e
 
  (1). **Mapping :**
 
- <img src="src/images/gmapping.png" alt="Gmapping" width="250" />  <img src="src/images/Hector.png" width="250" />  <img src="src/images/Karto.png" width="250" />
+ <img src="src/images/gmapping.png" alt="Gmapping" width="250" />     <img src="src/images/Hector.png" width="250" />     <img src="src/images/Karto.png" width="250" />
  
 
 
