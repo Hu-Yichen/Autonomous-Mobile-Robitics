@@ -6,6 +6,15 @@ NUS ME5413 Autonomous Mobile Robotics Final Project
 
 > Project done by: Yichen Hu, Chenzhi Ma, Shuqi Tu, Xiqiang Jiang
 
+## Introduction
+
+The project involves mapping and navigation tasks performed in a micro-factory environment using a Jacal car equipped with various sensors. The mapping task involves selecting different methods to map the environment and comparing their performance to select the best method, which is identified as the Karto algorithm. This algorithm is used to generate maps for navigation tasks. The navigation task involves navigating the robot to a given pose within each region using the generated map. The performance of the code was evaluated using the EVO tool, showing that the navigation tasks are accurate and efficient.​
+
+ (1). **Mapping :**
+
+ 
+
+
 ![Ubuntu 20.04](https://img.shields.io/badge/OS-Ubuntu_20.04-informational?style=flat&logo=ubuntu&logoColor=white&color=2bbc8a)
 ![ROS Noetic](https://img.shields.io/badge/Tools-ROS_Noetic-informational?style=flat&logo=ROS&logoColor=white&color=2bbc8a)
 ![C++](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=c%2B%2B&logoColor=white&color=2bbc8a)
